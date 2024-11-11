@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Reset some default browser styles */
+body, h1, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  /* font-family: "Poppins", sans-serif; */
+  background: rgb(66, 62, 62);
+}
+ /* Apply basic styling to the page */
+ body {
+  font-family: Arial, sans-serif;
+  background-color: #c0b9b9;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+        /* Reset some default browser styles */
+        body, h1, p, ul {
+          margin: 0;
+          padding: 0;
+      }
+      
+      /* Apply basic styling to the page */
+      body {
+          font-family: Arial, sans-serif;
+          background-color: #d4c6c6;
+          line-height: 1.6;
+          margin: 0;
+          padding: 0;
+      }
+      
+      /* Style the header section */
+      header {
+          background-color: #333;
+          color: #fff;
+          text-align: center;
+          padding: 1em 0;
+          margin-bottom: 100px;
+      }
+      
+      /* Style the navigation bar */
+      nav {
+          background-color: #444;
+          text-align: center;
+      }
+      
+     
+      
+      /* Style the content area */
+      .container {
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 20px;
+          background-color: #fff;
+      }
+      
+      /* Style the footer */
+      footer {
+          text-align: center;
+          padding: 10px;
+          background-color: #333;
+          color: #fff;
+      }
+
+/*Styling the header section 
+header {
+  background-color: beige;
+  color: #353232;
+  text-align: center;
+  padding: 1em 0;
+
+}*/
+
+/* Style the footer 
+  footer {
+    text-align: center;
+    padding: 10px;
+     background-color: #333;
+     color: #fff;
+     }*/
